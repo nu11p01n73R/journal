@@ -1,4 +1,4 @@
-.PHONY: install uninstall test
+.PHONY: install uninstall
 
 install: ${CURDIR}/journal.sh
 	ln -s ${CURDIR}/journal.sh /usr/local/bin/jrnl 

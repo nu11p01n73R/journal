@@ -55,3 +55,12 @@ as,
 $HOME/.journal/{year}/{month}/{day}.md
 ```
 
+# Uninstall
+
+```
+$ make uninstall
+```
+
+This will remove the command, but won't remove the date files. You will
+have to manually remove them.
+
