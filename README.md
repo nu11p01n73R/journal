@@ -1,8 +1,8 @@
-#Journal
+# Journal
 
 Easy to use, 5 line bash script to manage your daily journals.
 
-#Installation
+# Installation
 
 Clone the repo and run `make`
 
@@ -12,7 +12,7 @@ $ cd journal
 $ make
 ```
 
-#Usage
+# Usage
 
 To add a journal entry today(or view the one you already have) just type 
 ```
@@ -34,7 +34,7 @@ $ jrnl 4 May 2017
 $ jrnl 4 days ago
 ```
 
-#Internals
+# Internals
 By default all journal entires are stored in the user home,
 
 ```
